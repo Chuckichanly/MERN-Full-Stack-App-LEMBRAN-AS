@@ -16,3 +16,5 @@ tanto no /client quanto no /server
 -axios é usado para ligar com a API
 -Redux ele disse que tem que criar um monte de pastas e tal  pra usar mas vale a pena no largo prazo por que torna a app escalavel, ou seja fica facil de manter segundo a app vai crescendo.
 
+-acho que nao deu certo a instalação do redux no 57:00 talvz vou ter que voltar aqui pra solucionar isso, pode ser que meu package.json ta bugado pq eu dei um init antes
+
