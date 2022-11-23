@@ -1,0 +1,18 @@
+1-crei a pasta do projeto
+2-criei a pasta client e a pasta server
+3-instalei o react no client com o comando
+	npx create-react-app ./
+4-criei o index.js no /server
+5-npm init -y no /server
+6-'npm install body-parser cors express mongoose nodemon' no /server 
+7-no server/package.json voce coloca debaixo do main
+	"type": "module",
+  "scripts": {
+    "start": "nodemon index.js" 45
+8-para executar o projeto e testar ele no browser dá
+  npm start
+tanto no /client quanto no /server
+
+-axios é usado para ligar com a API
+-Redux ele disse que tem que criar um monte de pastas e tal  pra usar mas vale a pena no largo prazo por que torna a app escalavel, ou seja fica facil de manter segundo a app vai crescendo.
+
